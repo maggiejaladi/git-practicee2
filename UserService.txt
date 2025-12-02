@@ -2,6 +2,5 @@ Used to get user data
 Added this line
 New line for Feature1 branch
 added line for main branch
-<<<<<<< HEAD
 Added latest line in Main branch again
 
