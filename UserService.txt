@@ -1,1 +1,2 @@
 Used to get user data
+Adding data to create lite-version from this commit
